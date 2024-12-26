@@ -40,11 +40,7 @@ cd <NOMBRE_DEL_PROYECTO>
    pnpm install
    ```
 
-3. **Configurar el Entorno**
-   - Crea un archivo `.env` en el directorio `api` con las variables de entorno necesarias. Asegúrate de incluir detalles como la conexión a la base de datos, claves de API, etc.
-   
-
-4. **Ejecutar el Servidor**
+3. **Ejecutar el Servidor**
    ```bash
    pnpm run dev
    ```
